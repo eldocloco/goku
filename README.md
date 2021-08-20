@@ -1,4 +1,4 @@
-# goku#EXTM3U
+#EXTM3U
 #EXTINF:-1,6 - Repretel
 http://201.220.141.118:8000/play/a02q/index.m3u8
 #EXTINF:-1,7-Teletica
